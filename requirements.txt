@@ -1,0 +1,11 @@
+# verify_tables.py needs nothing beyond the standard library.
+# The following are for running the benchmark itself.
+torch>=2.0
+pillow>=9.0
+numpy>=1.23
+# optional, for the handwriting evaluation (parquet splits)
+pandas>=1.5
+pyarrow>=12.0
+# optional, competing engines
+# pytesseract
+# surya-ocr
