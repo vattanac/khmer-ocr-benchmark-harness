@@ -152,6 +152,7 @@ Apache 2.0 (see `LICENSE`).
   title  = {Toward a Reproducible, Low-Cost Baseline for Khmer Optical Character Recognition},
   author = {Sim, Vattanac},
   year   = {2026},
+  doi    = {10.13140/RG.2.2.10713.89449},
   note   = {Preprint}
 }
 ```
